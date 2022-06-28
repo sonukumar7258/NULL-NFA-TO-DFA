@@ -1,0 +1,10 @@
+number of states(3)	number of symbols(2)
+number of transitions from 1st using null		all the transitions it goes to
+number of transitions from 1st using 1st symbol 	all the transitions it goes to
+number of transitions from 1st using 2nd symbol 	all the transitions it goes to
+number of transitions from 2nd using null		all the transitions it goes to
+number of transitions from 2nd using 1st symbol 	all the transitions it goes to
+number of transitions from 2nd using 2nd symbol 	all the transitions it goes to
+number of transitions from 3rd using null		all the transitions it goes to
+number of transitions from 3rd using 1st symbol 	all the transitions it goes to
+number of transitions from 3rd using 2nd symbol 	all the transitions it goes to
